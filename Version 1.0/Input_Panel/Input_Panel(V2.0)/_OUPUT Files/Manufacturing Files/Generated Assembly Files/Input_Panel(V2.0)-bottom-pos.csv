@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D2","LED","LED_D5.0mm",-21.500000,-9.275000,90.000000,bottom
+"D3","LED","LED_D5.0mm",-33.500000,-9.275000,90.000000,bottom
+"D4","LED","LED_D5.0mm",-45.500000,-9.275000,90.000000,bottom
+"R2","330R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",-47.700000,-13.100000,180.000000,bottom
+"R3","330R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",-29.680000,-13.200000,180.000000,bottom
+"R4","330R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",-42.000000,-2.600000,180.000000,bottom
